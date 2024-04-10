@@ -7,6 +7,7 @@
 - Quiz published later today, but watch 3 Blue 1 Brown Video, below first
 - Latest Developments
 - * Sora Parameters > ~10T
+- * (Y Combinator on AI:)[https://www.ycombinator.com/library/Kl-building-ai-models-faster-and-cheaper-than-you-think-lightcone-podcast-ep-4] 
 - * Agentic AI Approaches ([see Berman on Albert NG](https://youtu.be/ZYf9V2fSFwU))
 - * DBRX
 - * [Groq speedup](https://youtu.be/13pnH_8cBUM)
