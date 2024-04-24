@@ -165,5 +165,5 @@ Here is the final HTML/JS file that it produced:
 None of the functionality for the calculations actually worked in the end.
 
 To fix this, I asked Copilot and it did much, much better. Here is the result:
-
+[Video Link](https://youtu.be/LTfNgesGCpQ)
 <video controls src="20240411-0353-32.4081175.mp4" title="Title"></video>
