@@ -6,10 +6,9 @@
 - Latest Developments
 - * Snowflake Arctic
 - * Hugging Leaderboard update
-- * [Intel Neuromorphic System](https://www.intel.com/content/www/us/en/newsroom/news/intel-builds-worlds-largest-neuromorphic-system.html#gs.7ucub2)
-- * [Modularizing Mixture of Experts](https://www.linkedin.com/pulse/mixture-experts-models-ai-paul-lopez-8tcgc/)
+- * [Modularizing MoE Snowflake](https://medium.com/snowflake/snowflake-arctic-cookbook-series-exploring-mixture-of-experts-moe-c7d6b8f14d16)
 - Open Source AI Regulation
-- * 
+- * https://youtu.be/Alv0VwUik8g?si=FiVFcDJ-54E3tQb_
 - Reminder: Final - Asynchronous Exam 
 - [Another word on "Open Source" vs. "Open Weights"](https://youtu.be/8Ul_0jddTU4)
 
